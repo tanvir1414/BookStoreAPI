@@ -1,0 +1,2 @@
+﻿
+SET IDENTITY_INSERT Books ON
